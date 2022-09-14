@@ -1,0 +1,3 @@
+this is version 1 of my project
+i want this to into commit 2
+this is change now
